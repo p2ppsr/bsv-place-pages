@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BSV.place — Corrections and evidence briefs</title>
+    <link>https://bsv.place/</link>
+    <description>Material revisions and evidence-first responses to common BSV objections.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2026 12:00:00 GMT</lastBuildDate>
+    <atom:link href="https://bsv.place/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canonical objection corpus expanded · v1.1.0</title>
+      <link>https://bsv.place/updates/#2026-07-11-1-1-0</link>
+      <guid isPermaLink="false">https://bsv.place/#revision:2026-07-11-1-1-0</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Split the original eight combined briefs into twenty-eight canonical objection families, added risk and review metadata, claim-level source mappings, evidence gaps, and explicit falsifiability.</description>
+    </item>
+    <item>
+      <title>Current TypeScript sources corrected · v1.0.1</title>
+      <link>https://bsv.place/updates/#2026-07-11-1-0-1</link>
+      <guid isPermaLink="false">https://bsv.place/#revision:2026-07-11-1-0-1</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Updated the implementation desk to use the current bsv-blockchain/ts-stack monorepo and labeled archived predecessor repositories and maintainer catalogs appropriately.</description>
+    </item>
+    <item>
+      <title>BSV.place launched · v1.0.0</title>
+      <link>https://bsv.place/updates/#2026-07-11-1-0-0</link>
+      <guid isPermaLink="false">https://bsv.place/#revision:2026-07-11-1-0-0</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Published the initial evidence desk with eight briefs, an editorial method, and primary-source resource desk.</description>
+    </item>
+    <item>
+      <title>Public corrections and revision history opened</title>
+      <link>https://bsv.place/updates/#2026-07-11-public-corrections</link>
+      <guid isPermaLink="false">https://bsv.place/#revision:2026-07-11-public-corrections</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Added structured correction and missing-objection intake, a public revision log, and an explicit promise to preserve material changes.</description>
+    </item>
+    <item>
+      <title>Independent static publication established</title>
+      <link>https://bsv.place/updates/#2026-07-11-independent-hosting</link>
+      <guid isPermaLink="false">https://bsv.place/#revision:2026-07-11-independent-hosting</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>The durable editorial source now publishes a generated static artifact to GitHub Pages with a protected custom domain and enforced HTTPS.</description>
+    </item>
+    <item>
+      <title>Does the BSV case depend on Craig Wright being Satoshi?</title>
+      <link>https://bsv.place/answers/craig-wright-and-satoshi/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:craig-wright-and-satoshi</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>No identity claim is required. Software, network rules, economics, and actual use should stand or fall on inspectable evidence of their own.</description>
+    </item>
+    <item>
+      <title>What did the COPA judgment establish—and what does it not decide?</title>
+      <link>https://bsv.place/answers/copa-judgment-and-legal-record/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:copa-judgment-and-legal-record</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>The judgment is an essential legal record about Craig Wright&apos;s identity claim. It is not a test report for every protocol or application claim.</description>
+    </item>
+    <item>
+      <title>Is BSV captured by a small set of institutions and patrons?</title>
+      <link>https://bsv.place/answers/institutional-capture-and-independence/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:institutional-capture-and-independence</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Concentration is a legitimate dependency question. It should be answered with an inventory of authority, funding, code ownership, operators, and replaceability—not a decentralization slogan.</description>
+    </item>
+    <item>
+      <title>How should a serious person respond to the “scam” or “cult” label?</title>
+      <link>https://bsv.place/answers/scam-cult-and-grift-labels/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:scam-cult-and-grift-labels</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>A label is not a technical analysis, but it often points to a valid proof problem: were people sold allegiance and price stories instead of working utility and disclosed risk?</description>
+    </item>
+    <item>
+      <title>Where are the users?</title>
+      <link>https://bsv.place/answers/users-adoption-and-use-cases/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:users-adoption-and-use-cases</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>The public adoption proof remains thinner than the technical inventory. That gap should be measured, not covered with anecdotes or raw transaction counts.</description>
+    </item>
+    <item>
+      <title>Does anything economically need BSV?</title>
+      <link>https://bsv.place/answers/economically-necessary-use-cases/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:economically-necessary-use-cases</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Correct: a cheap transaction is a component, not a product. The case must be a workflow where public proofs, tiny payments, or portable signed records change user value or unit economics.</description>
+    </item>
+    <item>
+      <title>Does building on BSV create unacceptable reputational risk?</title>
+      <link>https://bsv.place/answers/builder-reputational-risk/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:builder-reputational-risk</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>That is a real commercial risk affecting hiring, partnerships, fundraising, and distribution. It can be reduced by clean-room product framing and evidence, not denied.</description>
+    </item>
+    <item>
+      <title>Is BSV “really Bitcoin”?</title>
+      <link>https://bsv.place/answers/is-bsv-really-bitcoin/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:is-bsv-really-bitcoin</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Chain identity is partly historical and social. For a product decision, compare implemented design goals and current rules instead of demanding agreement on a purity title.</description>
+    </item>
+    <item>
+      <title>Is “Satoshi&apos;s Vision” a defensible description?</title>
+      <link>https://bsv.place/answers/satoshis-vision-claim/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:satoshis-vision-claim</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>The phrase is defensible only when defined narrowly as a set of design goals. It should not imply that every current governance choice appears in, or is compelled by, the whitepaper.</description>
+    </item>
+    <item>
+      <title>Can nodes reject a longer proof-of-work chain and still claim Bitcoin rules?</title>
+      <link>https://bsv.place/answers/proof-of-work-and-honest-nodes/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:proof-of-work-and-honest-nodes</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>This is a serious protocol-governance dispute. Proof of work coordinates valid history; the hard questions are who defines validity, what policies can change it, and how operators learn the rules.</description>
+    </item>
+    <item>
+      <title>Can BSV freeze or reassign coins?</title>
+      <link>https://bsv.place/answers/governance-dar-and-network-rules/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:governance-dar-and-network-rules</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>The published governance surface is real and consequential. It should be evaluated as a disputed-property recovery tradeoff—not denied or confused with ordinary wallet authority.</description>
+    </item>
+    <item>
+      <title>What if a court or claimant gets asset recovery wrong?</title>
+      <link>https://bsv.place/answers/courts-errors-and-recovery-safeguards/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:courts-errors-and-recovery-safeguards</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Correct. Legal process is a risk-control system, not an oracle. The relevant mitigations are narrow scope, notice, challenge, appeal, transparency, liability, and technical reversibility.</description>
+    </item>
+    <item>
+      <title>Does the BSV Association function as a central authority?</title>
+      <link>https://bsv.place/answers/bsv-association-governance/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:bsv-association-governance</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>BSV does include explicit institutional governance. The defensible question is whether its scope, checks, transparency, and fit are acceptable for a use case.</description>
+    </item>
+    <item>
+      <title>Is the Open BSV License actually open—and can builders exit?</title>
+      <link>https://bsv.place/answers/open-bsv-license-and-exit-risk/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:open-bsv-license-and-exit-risk</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>The rail-use condition is a material dependency. Inventory licenses component by component; do not use “open source” as a blanket shorthand.</description>
+    </item>
+    <item>
+      <title>Do delistings and weak liquidity make BSV unusable?</title>
+      <link>https://bsv.place/answers/liquidity-delisting-and-operational-risk/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:liquidity-delisting-and-operational-risk</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Liquidity and service access are real operational dependencies for some products and nearly incidental for others. They must be tested at decision time.</description>
+    </item>
+    <item>
+      <title>Do price and “flippening” narratives invalidate the builder case?</title>
+      <link>https://bsv.place/answers/price-and-flippening-contamination/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:price-and-flippening-contamination</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>They do not invalidate a working product, but they contaminate its credibility and attract the wrong success metrics.</description>
+    </item>
+    <item>
+      <title>Why does BSV discourse so often feel tribal or abusive?</title>
+      <link>https://bsv.place/answers/tribalism-and-ally-tone/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:tribalism-and-ally-tone</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Factional tone is a real credibility and distribution cost. Friendly hostility does not become helpful because it comes from an ally.</description>
+    </item>
+    <item>
+      <title>What can a skeptical person actually try?</title>
+      <link>https://bsv.place/answers/show-working-product-proof/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:show-working-product-proof</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>That request is an opportunity. Every capability claim should lead to a bounded, reproducible path with expected output and honest failure handling.</description>
+    </item>
+    <item>
+      <title>Is BSV too complicated to build on?</title>
+      <link>https://bsv.place/answers/onboarding-and-acronym-overload/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:onboarding-and-acronym-overload</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>The cognitive-load objection is valid. A newcomer should start with one user outcome and a high-level API, then reveal lower layers only when they solve a real problem.</description>
+    </item>
+    <item>
+      <title>Is BRC-100 real interoperability or one vendor&apos;s interface?</title>
+      <link>https://bsv.place/answers/brc100-interoperability-and-portability/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:brc100-interoperability-and-portability</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>That is the right proof standard. BRC-100 is a substantial public interface; interoperability depends on conforming independent implementations and observable compatibility.</description>
+    </item>
+    <item>
+      <title>Can users actually leave a wallet, app, or overlay?</title>
+      <link>https://bsv.place/answers/user-data-and-service-portability/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:user-data-and-service-portability</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Correct. Portability is an operational property demonstrated by export, import, discovery, replacement, and recovery—not inferred from public keys or blockchain storage.</description>
+    </item>
+    <item>
+      <title>Is BSV scaling real, or a datacenter marketing claim?</title>
+      <link>https://bsv.place/answers/scale-fees-and-centralization/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:scale-fees-and-centralization</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>BSV has a coherent large-block architecture and public Teranode source. Capacity, independent reproduction, production behavior, demand, and operator diversity remain separate claims.</description>
+    </item>
+    <item>
+      <title>What do hashpower and reorganization history mean for BSV security?</title>
+      <link>https://bsv.place/answers/security-hashpower-and-reorgs/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:security-hashpower-and-reorgs</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Hash economics, transaction validity, confirmation policy, topology, monitoring, and governance response are separate security layers. None should be hand-waved.</description>
+    </item>
+    <item>
+      <title>Do DAR or compliance controls change BSV&apos;s legal classification?</title>
+      <link>https://bsv.place/answers/dar-compliance-and-regulatory-classification/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:dar-compliance-and-regulatory-classification</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Mechanisms can affect a legal analysis, but a slogan cannot supply one. Classification is jurisdiction-, fact-, transaction-, and time-specific and requires counsel.</description>
+    </item>
+    <item>
+      <title>Why have so many funded BSV projects disappeared?</title>
+      <link>https://bsv.place/answers/ecosystem-funding-and-project-failures/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:ecosystem-funding-and-project-failures</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Failed projects are normal; missing accountability is not. Judge a current ecosystem by maintained products, user outcomes, and transparent status—not by cumulative launch announcements.</description>
+    </item>
+    <item>
+      <title>Is BSV just a cheap database for spam?</title>
+      <link>https://bsv.place/answers/cheap-database-data-and-spam/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:cheap-database-data-and-spam</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>This is a genuine design-priority disagreement. Cheap public blockspace can support proofs and signed records while imposing permanent-resource and privacy costs.</description>
+    </item>
+    <item>
+      <title>Can miners, the chain, or an app sign as me or read my private data?</title>
+      <link>https://bsv.place/answers/wallet-authority-identity-and-data/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:wallet-authority-identity-and-data</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>These are different authority layers. Network recovery can affect accepted coin ownership without automatically granting a user&apos;s signing keys, decryption keys, certificates, or app permissions.</description>
+    </item>
+    <item>
+      <title>Does Project Babbage depend too heavily on the BSV rail?</title>
+      <link>https://bsv.place/answers/babbage-and-bsv-rail-dependency/</link>
+      <guid isPermaLink="false">https://bsv.place/#brief:babbage-and-bsv-rail-dependency</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>BSV is the current rail, so failure is a material dependency. Portability claims must distinguish reusable interfaces and user data from BSV-specific transactions, proofs, licenses, and services.</description>
+    </item>
+  </channel>
+</rss>

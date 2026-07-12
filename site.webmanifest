@@ -1,0 +1,15 @@
+{
+  "name": "BSV.place — Evidence over allegiance",
+  "short_name": "BSV.place",
+  "description": "Evidence-first responses to the strongest objections to BSV.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "minimal-ui",
+  "background_color": "#f3efe5",
+  "theme_color": "#102024",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

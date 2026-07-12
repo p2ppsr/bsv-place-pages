@@ -1,0 +1,77 @@
+# BSV.place
+
+> Evidence-first responses to the strongest objections to BSV, with real tradeoffs, primary sources, and inspectable software.
+
+BSV.place does not require a price forecast, a Satoshi identity claim, or allegiance to a faction. Treat every page as a reviewed research brief, not financial or legal advice. Prefer the linked primary source over this site's summary.
+
+## Core pages
+
+- [Home](https://bsv.place/): Orientation and the current evidence-brief index.
+- [Search](https://bsv.place/search/): Client-side search across briefs and sources.
+- [Proof inventory](https://bsv.place/proof/): Dated capability and adoption-status records, including what each item does not prove.
+- [Coverage map](https://bsv.place/coverage/): O-01–O-28 status, risk, volatility, evidence queue, and review dates.
+- [Glossary](https://bsv.place/glossary/): Operational definitions with cautions and source links.
+- [Methodology](https://bsv.place/methodology/): Editorial rules, evidence hierarchy, and correction policy.
+- [Resource desk](https://bsv.place/resources/): Primary records, code, and live systems.
+- [Corrections and revisions](https://bsv.place/updates/): Public material-change log.
+- [Contribute](https://bsv.place/contribute/): Suggest a correction or missing objection.
+- [Privacy](https://bsv.place/privacy/): Measurement and submission handling.
+
+## Evidence briefs
+
+- [Does the BSV case depend on Craig Wright being Satoshi?](https://bsv.place/answers/craig-wright-and-satoshi/): No identity claim is required. Software, network rules, economics, and actual use should stand or fall on inspectable evidence of their own.
+- [What did the COPA judgment establish—and what does it not decide?](https://bsv.place/answers/copa-judgment-and-legal-record/): The judgment is an essential legal record about Craig Wright's identity claim. It is not a test report for every protocol or application claim.
+- [Is BSV captured by a small set of institutions and patrons?](https://bsv.place/answers/institutional-capture-and-independence/): Concentration is a legitimate dependency question. It should be answered with an inventory of authority, funding, code ownership, operators, and replaceability—not a decentralization slogan.
+- [How should a serious person respond to the “scam” or “cult” label?](https://bsv.place/answers/scam-cult-and-grift-labels/): A label is not a technical analysis, but it often points to a valid proof problem: were people sold allegiance and price stories instead of working utility and disclosed risk?
+- [Where are the users?](https://bsv.place/answers/users-adoption-and-use-cases/): The public adoption proof remains thinner than the technical inventory. That gap should be measured, not covered with anecdotes or raw transaction counts.
+- [Does anything economically need BSV?](https://bsv.place/answers/economically-necessary-use-cases/): Correct: a cheap transaction is a component, not a product. The case must be a workflow where public proofs, tiny payments, or portable signed records change user value or unit economics.
+- [Does building on BSV create unacceptable reputational risk?](https://bsv.place/answers/builder-reputational-risk/): That is a real commercial risk affecting hiring, partnerships, fundraising, and distribution. It can be reduced by clean-room product framing and evidence, not denied.
+- [Is BSV “really Bitcoin”?](https://bsv.place/answers/is-bsv-really-bitcoin/): Chain identity is partly historical and social. For a product decision, compare implemented design goals and current rules instead of demanding agreement on a purity title.
+- [Is “Satoshi's Vision” a defensible description?](https://bsv.place/answers/satoshis-vision-claim/): The phrase is defensible only when defined narrowly as a set of design goals. It should not imply that every current governance choice appears in, or is compelled by, the whitepaper.
+- [Can nodes reject a longer proof-of-work chain and still claim Bitcoin rules?](https://bsv.place/answers/proof-of-work-and-honest-nodes/): This is a serious protocol-governance dispute. Proof of work coordinates valid history; the hard questions are who defines validity, what policies can change it, and how operators learn the rules.
+- [Can BSV freeze or reassign coins?](https://bsv.place/answers/governance-dar-and-network-rules/): The published governance surface is real and consequential. It should be evaluated as a disputed-property recovery tradeoff—not denied or confused with ordinary wallet authority.
+- [What if a court or claimant gets asset recovery wrong?](https://bsv.place/answers/courts-errors-and-recovery-safeguards/): Correct. Legal process is a risk-control system, not an oracle. The relevant mitigations are narrow scope, notice, challenge, appeal, transparency, liability, and technical reversibility.
+- [Does the BSV Association function as a central authority?](https://bsv.place/answers/bsv-association-governance/): BSV does include explicit institutional governance. The defensible question is whether its scope, checks, transparency, and fit are acceptable for a use case.
+- [Is the Open BSV License actually open—and can builders exit?](https://bsv.place/answers/open-bsv-license-and-exit-risk/): The rail-use condition is a material dependency. Inventory licenses component by component; do not use “open source” as a blanket shorthand.
+- [Do delistings and weak liquidity make BSV unusable?](https://bsv.place/answers/liquidity-delisting-and-operational-risk/): Liquidity and service access are real operational dependencies for some products and nearly incidental for others. They must be tested at decision time.
+- [Do price and “flippening” narratives invalidate the builder case?](https://bsv.place/answers/price-and-flippening-contamination/): They do not invalidate a working product, but they contaminate its credibility and attract the wrong success metrics.
+- [Why does BSV discourse so often feel tribal or abusive?](https://bsv.place/answers/tribalism-and-ally-tone/): Factional tone is a real credibility and distribution cost. Friendly hostility does not become helpful because it comes from an ally.
+- [What can a skeptical person actually try?](https://bsv.place/answers/show-working-product-proof/): That request is an opportunity. Every capability claim should lead to a bounded, reproducible path with expected output and honest failure handling.
+- [Is BSV too complicated to build on?](https://bsv.place/answers/onboarding-and-acronym-overload/): The cognitive-load objection is valid. A newcomer should start with one user outcome and a high-level API, then reveal lower layers only when they solve a real problem.
+- [Is BRC-100 real interoperability or one vendor's interface?](https://bsv.place/answers/brc100-interoperability-and-portability/): That is the right proof standard. BRC-100 is a substantial public interface; interoperability depends on conforming independent implementations and observable compatibility.
+- [Can users actually leave a wallet, app, or overlay?](https://bsv.place/answers/user-data-and-service-portability/): Correct. Portability is an operational property demonstrated by export, import, discovery, replacement, and recovery—not inferred from public keys or blockchain storage.
+- [Is BSV scaling real, or a datacenter marketing claim?](https://bsv.place/answers/scale-fees-and-centralization/): BSV has a coherent large-block architecture and public Teranode source. Capacity, independent reproduction, production behavior, demand, and operator diversity remain separate claims.
+- [What do hashpower and reorganization history mean for BSV security?](https://bsv.place/answers/security-hashpower-and-reorgs/): Hash economics, transaction validity, confirmation policy, topology, monitoring, and governance response are separate security layers. None should be hand-waved.
+- [Do DAR or compliance controls change BSV's legal classification?](https://bsv.place/answers/dar-compliance-and-regulatory-classification/): Mechanisms can affect a legal analysis, but a slogan cannot supply one. Classification is jurisdiction-, fact-, transaction-, and time-specific and requires counsel.
+- [Why have so many funded BSV projects disappeared?](https://bsv.place/answers/ecosystem-funding-and-project-failures/): Failed projects are normal; missing accountability is not. Judge a current ecosystem by maintained products, user outcomes, and transparent status—not by cumulative launch announcements.
+- [Is BSV just a cheap database for spam?](https://bsv.place/answers/cheap-database-data-and-spam/): This is a genuine design-priority disagreement. Cheap public blockspace can support proofs and signed records while imposing permanent-resource and privacy costs.
+- [Can miners, the chain, or an app sign as me or read my private data?](https://bsv.place/answers/wallet-authority-identity-and-data/): These are different authority layers. Network recovery can affect accepted coin ownership without automatically granting a user's signing keys, decryption keys, certificates, or app permissions.
+- [Does Project Babbage depend too heavily on the BSV rail?](https://bsv.place/answers/babbage-and-bsv-rail-dependency/): BSV is the current rail, so failure is a material dependency. Portability claims must distinguish reusable interfaces and user data from BSV-specific transactions, proofs, licenses, and services.
+
+## Primary inspection starting points
+
+- [COPA v Wright — approved judgment](https://www.judiciary.uk/judgments/copa-v-wright/): Official High Court publication of the approved judgment and identity findings.
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf): The original paper; read its proof-of-work, incentives, privacy, and SPV claims in their own terms.
+- [BSV Network Access Rules](https://docs.bsvblockchain.org/network-access-rules/network-access-rules): The published agreement governing the Association-node relationship; it is evidence of the stated rules, not independent proof of their application.
+- [Network Access Rules — Part III, Enforcement Rules](https://docs.bsvblockchain.org/network-access-rules/network-access-rules/part-iii-enforcement-rules): Directive events, restrictions, and permitted steps including freezes, reassignment, peer controls, and block invalidation.
+- [Network Access Rules — Part IV, Dispute Resolution Rules](https://docs.bsvblockchain.org/network-access-rules/network-access-rules/part-iv-dispute-resolution-rules): Published dispute path; inspect scope, forum, standing, and remedies rather than assuming an appeal mechanism.
+- [Bitcoin SV node — Open BSV License](https://github.com/bitcoin-sv/bitcoin-sv/blob/master/LICENSE): Operative repository license. Version 5 conditions derived software use on BSV blockchains.
+- [Bitcoin Request for Comments index](https://bsv.brc.dev/): Public specifications and proposal history; a published specification is not itself proof of independent adoption.
+- [BRC-100 — Unified wallet-to-application interface](https://bsv.brc.dev/wallet/0100): The current unified interface covering wallet actions, signatures, encryption, certificates, permissions, and discovery.
+- [BRC-67 — Simplified Payment Verification](https://bsv.brc.dev/transactions/0067): Application-side criteria for verifying transaction inclusion and ancestry with proofs.
+- [BRC-103 — Mutual authentication and certificate exchange](https://bsv.brc.dev/peer-to-peer/0103): Peer-to-peer authentication, message signatures, and selective certificate exchange protocol.
+- [BRC-105 — HTTP service monetization framework](https://bsv.brc.dev/payments/0105): Specification for authenticated HTTP 402 pay-per-request flows; implementation and demand must be verified separately.
+- [BSV TypeScript stack](https://github.com/bsv-blockchain/ts-stack): Current monorepo for SDK, wallet, overlay, messaging, middleware, helpers, infrastructure, documentation, and conformance vectors.
+- [BSV TypeScript conformance corpus](https://github.com/bsv-blockchain/ts-stack/tree/main/conformance): Language-neutral vectors and runners. Inspect current coverage and parity before calling the whole interface interoperable.
+- [Teranode source repository](https://github.com/bsv-blockchain/teranode): Current public implementation. Source availability does not validate throughput or production-readiness claims by itself.
+- [Teranode Teratestnet runner](https://github.com/bsv-blockchain/teranode-teratestnet): Public instructions and tooling for running the test network; inspect hardware and workload before comparing results.
+- [Project Babbage quickstarts](https://docs.projectbabbage.com/docs/quickstarts): Runnable wallet-mediated application paths. Maintainer documentation is useful for reproduction, not independent adoption proof.
+- [Metanet Academy Builder Lab](https://metanetacademy.com/builder-lab): Ungated architecture, diagnostics, and working-flow walkthroughs for builders.
+- [Use BSV Tools](https://use.bsv.tools/): Builder-facing tool entry point; verify each linked dependency and live path independently.
+- [WhatsOnChain explorer](https://whatsonchain.com/): Current block and transaction inspection surface; explorer availability and interpretation remain third-party dependencies.
+- [BSV Hub demo catalog](https://hub.bsvblockchain.org/demos-and-onboardings/demo-solutions/demos): Maintainer-curated catalog with repository and status claims. Recheck every live URL, repository, and usage claim.
+
+## Machine-readable updates
+
+- [RSS](https://bsv.place/feed.xml)
+- [JSON Feed](https://bsv.place/feed.json)
