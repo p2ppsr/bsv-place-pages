@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://bsv.place
+Sitemap: https://bsv.place/sitemap.xml
