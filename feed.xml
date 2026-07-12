@@ -8,39 +8,46 @@
     <lastBuildDate>Sat, 11 Jul 2026 12:00:00 GMT</lastBuildDate>
     <atom:link href="https://bsv.place/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Canonical objection corpus expanded · v1.1.0</title>
+      <title>Public presentation clarified · v1.1.1</title>
+      <link>https://bsv.place/updates/#2026-07-11-1-1-1</link>
+      <guid isPermaLink="false">https://bsv.place/#revision:2026-07-11-1-1-1</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Removed internal reference codes and workflow labels, excluded material that did not meet the publication gate, grouped questions by topic, and added a clear ownership and potential-bias disclosure.</description>
+    </item>
+    <item>
+      <title>Evidence library expanded · v1.1.0</title>
       <link>https://bsv.place/updates/#2026-07-11-1-1-0</link>
       <guid isPermaLink="false">https://bsv.place/#revision:2026-07-11-1-1-0</guid>
       <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
-      <description>Split the original eight combined briefs into twenty-eight canonical objection families, added risk and review metadata, claim-level source mappings, evidence gaps, and explicit falsifiability.</description>
+      <description>Added individual pages for common questions, clearer source links, explicit limits, and an explanation of what evidence could change each answer.</description>
     </item>
     <item>
-      <title>Current TypeScript sources corrected · v1.0.1</title>
+      <title>Implementation links corrected · v1.0.1</title>
       <link>https://bsv.place/updates/#2026-07-11-1-0-1</link>
       <guid isPermaLink="false">https://bsv.place/#revision:2026-07-11-1-0-1</guid>
       <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
-      <description>Updated the implementation desk to use the current bsv-blockchain/ts-stack monorepo and labeled archived predecessor repositories and maintainer catalogs appropriately.</description>
+      <description>Updated software links to point to the current TypeScript repository and clearly labeled older repositories where they remain useful as historical references.</description>
     </item>
     <item>
       <title>BSV.place launched · v1.0.0</title>
       <link>https://bsv.place/updates/#2026-07-11-1-0-0</link>
       <guid isPermaLink="false">https://bsv.place/#revision:2026-07-11-1-0-0</guid>
       <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
-      <description>Published the initial evidence desk with eight briefs, an editorial method, and primary-source resource desk.</description>
+      <description>Published the initial evidence desk with eight briefs, a source-review method, and a primary-source resource desk.</description>
     </item>
     <item>
       <title>Public corrections and revision history opened</title>
       <link>https://bsv.place/updates/#2026-07-11-public-corrections</link>
       <guid isPermaLink="false">https://bsv.place/#revision:2026-07-11-public-corrections</guid>
       <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
-      <description>Added structured correction and missing-objection intake, a public revision log, and an explicit promise to preserve material changes.</description>
+      <description>Added correction and missing-question forms, a public revision log, and a clear promise to record material factual changes.</description>
     </item>
     <item>
       <title>Independent static publication established</title>
       <link>https://bsv.place/updates/#2026-07-11-independent-hosting</link>
       <guid isPermaLink="false">https://bsv.place/#revision:2026-07-11-independent-hosting</guid>
       <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
-      <description>The durable editorial source now publishes a generated static artifact to GitHub Pages with a protected custom domain and enforced HTTPS.</description>
+      <description>BSV.place now uses static external hosting, a protected custom domain, and enforced HTTPS to keep the reference available independently of application infrastructure.</description>
     </item>
     <item>
       <title>Does the BSV case depend on Craig Wright being Satoshi?</title>
@@ -48,13 +55,6 @@
       <guid isPermaLink="false">https://bsv.place/#brief:craig-wright-and-satoshi</guid>
       <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
       <description>No identity claim is required. Software, network rules, economics, and actual use should stand or fall on inspectable evidence of their own.</description>
-    </item>
-    <item>
-      <title>What did the COPA judgment establish—and what does it not decide?</title>
-      <link>https://bsv.place/answers/copa-judgment-and-legal-record/</link>
-      <guid isPermaLink="false">https://bsv.place/#brief:copa-judgment-and-legal-record</guid>
-      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
-      <description>The judgment is an essential legal record about Craig Wright&apos;s identity claim. It is not a test report for every protocol or application claim.</description>
     </item>
     <item>
       <title>Is BSV captured by a small set of institutions and patrons?</title>
@@ -120,25 +120,11 @@
       <description>The published governance surface is real and consequential. It should be evaluated as a disputed-property recovery tradeoff—not denied or confused with ordinary wallet authority.</description>
     </item>
     <item>
-      <title>What if a court or claimant gets asset recovery wrong?</title>
-      <link>https://bsv.place/answers/courts-errors-and-recovery-safeguards/</link>
-      <guid isPermaLink="false">https://bsv.place/#brief:courts-errors-and-recovery-safeguards</guid>
-      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
-      <description>Correct. Legal process is a risk-control system, not an oracle. The relevant mitigations are narrow scope, notice, challenge, appeal, transparency, liability, and technical reversibility.</description>
-    </item>
-    <item>
       <title>Does the BSV Association function as a central authority?</title>
       <link>https://bsv.place/answers/bsv-association-governance/</link>
       <guid isPermaLink="false">https://bsv.place/#brief:bsv-association-governance</guid>
       <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
       <description>BSV does include explicit institutional governance. The defensible question is whether its scope, checks, transparency, and fit are acceptable for a use case.</description>
-    </item>
-    <item>
-      <title>Is the Open BSV License actually open—and can builders exit?</title>
-      <link>https://bsv.place/answers/open-bsv-license-and-exit-risk/</link>
-      <guid isPermaLink="false">https://bsv.place/#brief:open-bsv-license-and-exit-risk</guid>
-      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
-      <description>The rail-use condition is a material dependency. Inventory licenses component by component; do not use “open source” as a blanket shorthand.</description>
     </item>
     <item>
       <title>Do delistings and weak liquidity make BSV unusable?</title>
@@ -202,13 +188,6 @@
       <guid isPermaLink="false">https://bsv.place/#brief:security-hashpower-and-reorgs</guid>
       <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
       <description>Hash economics, transaction validity, confirmation policy, topology, monitoring, and governance response are separate security layers. None should be hand-waved.</description>
-    </item>
-    <item>
-      <title>Do DAR or compliance controls change BSV&apos;s legal classification?</title>
-      <link>https://bsv.place/answers/dar-compliance-and-regulatory-classification/</link>
-      <guid isPermaLink="false">https://bsv.place/#brief:dar-compliance-and-regulatory-classification</guid>
-      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
-      <description>Mechanisms can affect a legal analysis, but a slogan cannot supply one. Classification is jurisdiction-, fact-, transaction-, and time-specific and requires counsel.</description>
     </item>
     <item>
       <title>Why have so many funded BSV projects disappeared?</title>
