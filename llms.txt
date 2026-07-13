@@ -18,6 +18,7 @@ BSV.place does not require a price forecast, a Satoshi identity claim, or allegi
 - [Privacy](https://bsv.place/privacy/): Measurement and submission handling.
 - [About](https://bsv.place/about/): Ownership, purpose, and potential conflicts.
 
+
 ## Evidence briefs
 
 - [Does the BSV case depend on Craig Wright being Satoshi?](https://bsv.place/answers/craig-wright-and-satoshi/): No identity claim is required. Software, network rules, economics, and actual use should stand or fall on inspectable evidence of their own.
