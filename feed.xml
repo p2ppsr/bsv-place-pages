@@ -5,8 +5,22 @@
     <link>https://bsv.place/</link>
     <description>Material revisions and evidence-first responses to common BSV objections.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:00:00 GMT</lastBuildDate>
     <atom:link href="https://bsv.place/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Merkle Proof Is a Receipt, Not a Backup</title>
+      <link>https://bsv.place/proof/merkle-proof-not-backup/</link>
+      <guid isPermaLink="false">https://bsv.place/#field-note:merkle-proof-not-backup</guid>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
+      <description>What Bitcoin proves about transaction inclusion, order, and integrity—and what builders must still preserve, index, explain, and make portable.</description>
+    </item>
+    <item>
+      <title>Proof and preservation field note published · v1.2.0</title>
+      <link>https://bsv.place/updates/#2026-09-05-1-2-0</link>
+      <guid isPermaLink="false">https://bsv.place/#revision:2026-09-05-1-2-0</guid>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
+      <description>Published a source-led guide to Merkle proofs, record availability, application layers, and the recovery evidence builders should ship.</description>
+    </item>
     <item>
       <title>Public presentation clarified · v1.1.1</title>
       <link>https://bsv.place/updates/#2026-07-11-1-1-1</link>

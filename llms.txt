@@ -19,6 +19,10 @@ BSV.place does not require a price forecast, a Satoshi identity claim, or allegi
 - [About](https://bsv.place/about/): Ownership, purpose, and potential conflicts.
 
 
+## Field notes
+
+- [A Merkle Proof Is a Receipt, Not a Backup](https://bsv.place/proof/merkle-proof-not-backup/): What Bitcoin proves about transaction inclusion, order, and integrity—and what builders must still preserve, index, explain, and make portable.
+
 ## Evidence briefs
 
 - [Does the BSV case depend on Craig Wright being Satoshi?](https://bsv.place/answers/craig-wright-and-satoshi/): No identity claim is required. Software, network rules, economics, and actual use should stand or fall on inspectable evidence of their own.
