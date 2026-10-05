@@ -19,6 +19,15 @@ BSV.place does not require a price forecast, a Satoshi identity claim, or allegi
 - [About](https://bsv.place/about/): Ownership, purpose, and potential conflicts.
 
 
+## Guides and reusable assets
+
+- [Mining incentives and economic acceptance](https://bsv.place/guides/mining-incentives-and-economic-acceptance/): Producing a block, checking it and accepting a payment are different decisions. Hashpower makes production possible and competing histories costly. Credible, coordinated rejection can reduce a profit-seeking attacker’s realizable payoff. That depends on actual enforcement, compatible settlement policies and continued accepted mining; one participant’s refusal cannot guarantee agreement.
+- [Stewardship and authority in an open system](https://bsv.place/guides/stewardship-and-authority/): A shared system needs maintainers and coordination. Those responsibilities can be distributed across institutions with different scopes. The useful test is whether another competent participant can understand the rules, inspect a decision and continue the relevant work. BSV’s published Association powers remain real dependencies; plural stewardship is a standard to demonstrate, not evidence that concentration has disappeared.
+- [When a conforming wallet still breaks an application](https://bsv.place/guides/wallet-compatibility-and-safe-changes/): A common wallet interface gives applications a shared way to request operations. It does not guarantee that every wallet policy, version and user workflow works together. The October 4 Zanaadu report and maintainer acknowledgment expose that gap. A repair needs an identified release and a successful workflow retest; neither an interface pass nor a constructive exchange proves resolution.
+- [When a shared ledger helps an IoT record](https://bsv.place/guides/iot-records-and-shared-evidence/): A shared ledger can help independent parties inspect a common commitment and accepted ordering without relying only on the original application’s database. It cannot make a sensor truthful or preserve missing records. Use it when that verification benefit justifies its costs and dependencies; a signed database log or transparency service may be the better design.
+
+- [Structured public library](https://bsv.place/library.json): Public explanations, source notes, evidence states, related questions and reusable assets. Preserve qualifications; reported and documented are not tested.
+
 ## Field notes
 
 - [A Merkle Proof Is a Receipt, Not a Backup](https://bsv.place/proof/merkle-proof-not-backup/): What Bitcoin proves about transaction inclusion, order, and integrity—and what builders must still preserve, index, explain, and make portable.

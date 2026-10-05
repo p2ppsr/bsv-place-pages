@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "version": "1.0",
+  "date": "2026-10-05",
+  "source": "https://bsv.place/guides/mining-incentives-and-economic-acceptance/",
+  "state": "empty template",
+  "rule_version": null,
+  "implementation_version": null,
+  "decision_maker": null,
+  "authority_basis": null,
+  "observed_evidence": [],
+  "source_reports": [],
+  "interpretations": [],
+  "communication_references": [],
+  "affected_services": [],
+  "acceptance_policies": [],
+  "continued_production_evidence": null,
+  "outcome": null,
+  "unresolved_disagreement": [],
+  "limitations": [
+    "No actual incident is represented. Retain only intentionally public, non-sensitive evidence."
+  ]
+}

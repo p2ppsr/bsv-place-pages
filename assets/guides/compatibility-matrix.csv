@@ -1,0 +1,3 @@
+"App","Wallet","App version","Wallet version","Platform","Workflow","Expected behavior","Reported symptom","Independent test status","Observed result","Test date","Tester","Source","Evidence scope"
+"Zanaadu","Not confirmed in this record","Unknown","Unknown","Mobile, user report","Post content","Supported posting completes","Failed workflow and signing restriction reported October 4","not-tested","No independent result","","","https://bsv.place/guides/wallet-compatibility-and-safe-changes/#the-public-record","Public reports and acknowledgments only; no fixed release verified"
+"","","","","","","","not-tested","","","","https://bsv.place/guides/wallet-compatibility-and-safe-changes/","Blank reusable row"

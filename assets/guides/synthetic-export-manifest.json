@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "version": "1.0",
+  "date": "2026-10-05",
+  "source": "https://bsv.place/guides/iot-records-and-shared-evidence/",
+  "status": "synthetic illustration; not a deployed or tested export",
+  "scenario": "Hypothetical refrigerated shipment",
+  "records": [
+    {
+      "file": "example-reading.json",
+      "included": false,
+      "sha256": null,
+      "schema": "Specify a versioned schema in a real export",
+      "device_identity": null,
+      "calibration_evidence": null
+    }
+  ],
+  "retention": {
+    "authorized_locations": [],
+    "access_instructions": null
+  },
+  "commitment": {
+    "transaction_id": null,
+    "block_header": null,
+    "merkle_path": null,
+    "current_acceptance_evidence": null
+  },
+  "recovery": {
+    "tested": false,
+    "tester": null,
+    "result": null
+  },
+  "limits": [
+    "No real sensor data, transaction, proof, key or successful recovery is represented.",
+    "Signatures and commitments do not establish measurement accuracy."
+  ]
+}

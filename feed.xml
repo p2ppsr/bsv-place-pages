@@ -5,14 +5,63 @@
     <link>https://bsv.place/</link>
     <description>Material revisions and evidence-first responses to common BSV objections.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:00:00 GMT</lastBuildDate>
     <atom:link href="https://bsv.place/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mining incentives and economic acceptance</title>
+      <link>https://bsv.place/guides/mining-incentives-and-economic-acceptance/</link>
+      <guid isPermaLink="false">https://bsv.place/#guide:mining-acceptance</guid>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Producing a block, checking it and accepting a payment are different decisions. Hashpower makes production possible and competing histories costly. Credible, coordinated rejection can reduce a profit-seeking attacker’s realizable payoff. That depends on actual enforcement, compatible settlement policies and continued accepted mining; one participant’s refusal cannot guarantee agreement.</description>
+    </item>
+    <item>
+      <title>Stewardship and authority in an open system</title>
+      <link>https://bsv.place/guides/stewardship-and-authority/</link>
+      <guid isPermaLink="false">https://bsv.place/#guide:stewardship-authority</guid>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+      <description>A shared system needs maintainers and coordination. Those responsibilities can be distributed across institutions with different scopes. The useful test is whether another competent participant can understand the rules, inspect a decision and continue the relevant work. BSV’s published Association powers remain real dependencies; plural stewardship is a standard to demonstrate, not evidence that concentration has disappeared.</description>
+    </item>
+    <item>
+      <title>When a conforming wallet still breaks an application</title>
+      <link>https://bsv.place/guides/wallet-compatibility-and-safe-changes/</link>
+      <guid isPermaLink="false">https://bsv.place/#guide:wallet-compatibility</guid>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+      <description>A common wallet interface gives applications a shared way to request operations. It does not guarantee that every wallet policy, version and user workflow works together. The October 4 Zanaadu report and maintainer acknowledgment expose that gap. A repair needs an identified release and a successful workflow retest; neither an interface pass nor a constructive exchange proves resolution.</description>
+    </item>
+    <item>
+      <title>When a shared ledger helps an IoT record</title>
+      <link>https://bsv.place/guides/iot-records-and-shared-evidence/</link>
+      <guid isPermaLink="false">https://bsv.place/#guide:iot-evidence</guid>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+      <description>A shared ledger can help independent parties inspect a common commitment and accepted ordering without relying only on the original application’s database. It cannot make a sensor truthful or preserve missing records. Use it when that verification benefit justifies its costs and dependencies; a signed database log or transparency service may be the better design.</description>
+    </item>
     <item>
       <title>A Merkle Proof Is a Receipt, Not a Backup</title>
       <link>https://bsv.place/proof/merkle-proof-not-backup/</link>
       <guid isPermaLink="false">https://bsv.place/#field-note:merkle-proof-not-backup</guid>
       <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
       <description>What Bitcoin proves about transaction inclusion, order, and integrity—and what builders must still preserve, index, explain, and make portable.</description>
+    </item>
+    <item>
+      <title>Inclusion evidence does not alone establish current acceptance or unspent status</title>
+      <link>https://bsv.place/updates/#2026-10-05-preservation-correction</link>
+      <guid isPermaLink="false">https://bsv.place/#revision:2026-10-05-preservation-correction</guid>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Corrected the preservation article’s header-chain and unspent framing. Added the separate current-history and spend/conflict checks, aligned its copied answer, and removed count-based completion cues. The whitepaper and BRC-67 remain the cited verification basis; no new recovery test is claimed.</description>
+    </item>
+    <item>
+      <title>Four guides preserve recent arguments and practical lessons</title>
+      <link>https://bsv.place/updates/#2026-10-05-connected-library</link>
+      <guid isPermaLink="false">https://bsv.place/#revision:2026-10-05-connected-library</guid>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Added mining and acceptance, scoped stewardship, the reported Zanaadu compatibility case, and an IoT design comparison, each with source provenance and reusable assets. X publications supply question history and attributed positions, not independent proof.</description>
+    </item>
+    <item>
+      <title>Explain the affirmative mechanism alongside its conditions</title>
+      <link>https://bsv.place/updates/#2026-10-05-brief-expansion</link>
+      <guid isPermaLink="false">https://bsv.place/#revision:2026-10-05-brief-expansion</guid>
+      <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Expanded all published briefs, replaced an unavailable legal-history reading instruction with the official judgment, and clarified acceptance, authority and portable-interface boundaries. Added task-based discovery, evidence states, source dates and public library export. Product outcomes remain untested where no result was obtained.</description>
     </item>
     <item>
       <title>Proof and preservation field note published · v1.2.0</title>
