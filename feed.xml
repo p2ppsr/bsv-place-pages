@@ -36,6 +36,13 @@
       <description>A shared ledger can help independent parties inspect a common commitment and accepted ordering without relying only on the original application’s database. It cannot make a sensor truthful or preserve missing records. Use it when that verification benefit justifies its costs and dependencies; a signed database log or transparency service may be the better design.</description>
     </item>
     <item>
+      <title>Interoperability testing and evidence</title>
+      <link>https://bsv.place/guides/interoperability-testing-and-evidence/</link>
+      <guid isPermaLink="false">https://bsv.place/#guide:interop-evidence</guid>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+      <description>A shared interface makes independently built components testable against the same contract. TPNIL adds versioned environments, program requirements, exact artifacts and retained evidence. Its first experimental wallet result has passing, failing and blocked assertions. Compatibility is established only for the tested workflow, versions and profile; broader conformance, portability and certification require separate evidence.</description>
+    </item>
+    <item>
       <title>A Merkle Proof Is a Receipt, Not a Backup</title>
       <link>https://bsv.place/proof/merkle-proof-not-backup/</link>
       <guid isPermaLink="false">https://bsv.place/#field-note:merkle-proof-not-backup</guid>
@@ -62,6 +69,13 @@
       <guid isPermaLink="false">https://bsv.place/#revision:2026-10-05-brief-expansion</guid>
       <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
       <description>Expanded all published briefs, replaced an unavailable legal-history reading instruction with the official judgment, and clarified acceptance, authority and portable-interface boundaries. Added task-based discovery, evidence states, source dates and public library export. Product outcomes remain untested where no result was obtained.</description>
+    </item>
+    <item>
+      <title>Interoperability laboratory guide and evidence references · v1.4.0</title>
+      <link>https://bsv.place/updates/#2026-11-02-1-4-0</link>
+      <guid isPermaLink="false">https://bsv.place/#revision:2026-11-02-1-4-0</guid>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Added ITCVE/ISI integration guidance, scoped wallet outcomes, a reusable run record and matrix, and updated compatibility and portability references. Independent reproduction and certification remain separate work.</description>
     </item>
     <item>
       <title>Proof and preservation field note published · v1.2.0</title>

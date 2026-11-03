@@ -119,6 +119,7 @@ A named release and successful workflow retest can establish a repair for that c
 
 ## Related resources
 
+- [Interoperability laboratory and result checklist](https://bsv.place/guides/interoperability-testing-and-evidence/): New experimental evidence and the boundaries of what it establishes.
 - [BRC-100 interoperability](https://bsv.place/answers/brc100-interoperability-and-portability/): Read the short answer on standards and independent implementations.
 - [Data and service portability](https://bsv.place/answers/user-data-and-service-portability/): Check what a successful migration must retain.
 - [Metanet](https://metanet.fyi/): Start with the app and wallet model in plain language.

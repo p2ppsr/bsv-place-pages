@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "version": "1.0",
+  "date": "2026-11-02",
+  "source": "https://bsv.place/guides/interoperability-testing-and-evidence/",
+  "status": "empty proposed template; not executed",
+  "program": null,
+  "program_version": null,
+  "environment_profile": null,
+  "sut_artifact_digest": null,
+  "platform": null,
+  "configuration": null,
+  "dependencies": [],
+  "fixtures": [],
+  "expected_outcome": null,
+  "observations": [],
+  "attempted_vectors": [],
+  "result": null,
+  "evidence_bundle": null,
+  "repetition": null,
+  "independent_rerun": false,
+  "limitations": [
+    "No actual test or pass is represented. Use intentionally public synthetic fixtures; exclude credentials and private wallet data."
+  ]
+}
