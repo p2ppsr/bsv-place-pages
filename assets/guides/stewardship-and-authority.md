@@ -1,13 +1,22 @@
 # Stewardship and authority in an open system
 
-BSV.place / Project Babbage · Updated 2026-10-05
+BSV.place / Project Babbage · Updated 2026-11-02
 Canonical: https://bsv.place/guides/stewardship-and-authority/
-Evidence review: 2026-10-05; source-specific dates below.
-Next review: 2026-11-05
+Evidence review: 2026-11-02; source-specific dates below.
+Next review: 2026-12-02
 
 A shared system needs maintainers and coordination. Those responsibilities can be distributed across institutions with different scopes. The useful test is whether another competent participant can understand the rules, inspect a decision and continue the relevant work. BSV’s published Association powers remain real dependencies; plural stewardship is a standard to demonstrate, not evidence that concentration has disappeared.
 
 Scope: BRC-187 is an authored framework, read alongside published operational rules. This article is not an independent control audit or a legal opinion about replacement rights.
+
+## The rules distinguish software choice from directive powers
+
+Evidence kind: documented
+Section: https://bsv.place/guides/stewardship-and-authority/#compatible-software
+
+NAR I.5.2(d) permits other node software when compatible with the Protocol and Rules and able to receive Association messages. This published provision limits claims that one software implementation is mandatory. It does not establish independent operator adoption or distribute the Association’s separate directive powers.
+
+Sources: [Network Access Rules · Part I](https://docs.bsvblockchain.org/network-access-rules/network-access-rules/part-i-master-rules)
 
 ## Three responsibilities that make stewardship useful
 
@@ -128,11 +137,12 @@ Independent continuation, reproducible decisions and meaningful correction histo
 
 ## Sources and provenance
 
-- [BRC-187 · stewardship opinion](https://github.com/bsv-blockchain/BRCs/blob/7c0ba5f2208e06525303ad4ac429dcbf379229d4/opinions/0187.md) · interpretation · Access 2026-10-05. Ty Everett’s authored stewardship framework. BSV.place is maintained by Project Babbage; this is a related author’s position, not independent corroboration or a deployed governance specification.
-- [Network Access Rules · Part III](https://docs.bsvblockchain.org/network-access-rules/network-access-rules/part-iii-enforcement-rules) · documented · Access 2026-10-05. Published Association directive powers and event categories. Read the operative text for scope and conditions.
-- [SV Node alert system](https://docs.bsvblockchain.org/network-topology/nodes/sv-node/alert-system) · documented · Access 2026-10-05. Documents signed information and directive messages. Message authentication is not a judgment on the merits, and documentation is not a deployment audit.
-- [SV Node Safe Mode](https://docs.bsvblockchain.org/network-topology/nodes/sv-node/frequently-asked-questions/safe-mode) · documented · Access 2026-10-05. Documents protective detection and operator intervention for SV Node. Not a deployment or convergence test.
-- [BRC-100 · wallet to application interface](https://bsv.brc.dev/wallet/0100) · documented · Access 2026-10-05. The interface specification; implementation, policy and workflow outcomes need their own evidence. No new compatibility test is implied by this guide.
+- [Network Access Rules · Part I](https://docs.bsvblockchain.org/network-access-rules/network-access-rules/part-i-master-rules) · documented · Access 2026-11-02. Section5.2(d) permits compatible alternative software able to receive Association messages; separate directive powers retain their own scope.
+- [BRC-187 · stewardship opinion](https://github.com/bsv-blockchain/BRCs/blob/7c0ba5f2208e06525303ad4ac429dcbf379229d4/opinions/0187.md) · interpretation · Access 2026-11-02. Ty Everett’s authored stewardship framework. BSV.place is maintained by Project Babbage; this is a related author’s position, not independent corroboration or a deployed governance specification.
+- [Network Access Rules · Part III](https://docs.bsvblockchain.org/network-access-rules/network-access-rules/part-iii-enforcement-rules) · documented · Access 2026-11-02. Published Association directive powers and event categories. Read the operative text for scope and conditions.
+- [SV Node alert system](https://docs.bsvblockchain.org/network-topology/nodes/sv-node/alert-system) · documented · Access 2026-11-02. Documents signed information and directive messages. Message authentication is not a judgment on the merits, and documentation is not a deployment audit.
+- [SV Node Safe Mode](https://docs.bsvblockchain.org/network-topology/nodes/sv-node/frequently-asked-questions/safe-mode) · documented · Access 2026-11-02. Documents protective detection and operator intervention for SV Node. Not a deployment or convergence test.
+- [BRC-100 · wallet to application interface](https://bsv.brc.dev/wallet/0100) · documented · Access 2026-11-02. The interface specification; implementation, policy and workflow outcomes need their own evidence. No new compatibility test is implied by this guide.
 - [Project Babbage’s answer on mining and economic acceptance](https://x.com/ProjectBabbage/status/2107167307097342049) · reported · Access 2026-10-05 · Published 2026-10-05T17:53:29Z. The published argument that prompted this guide, verified against its live body. An authored position, not empirical proof of deterrence.
 
 ## Related resources

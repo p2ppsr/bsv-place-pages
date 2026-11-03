@@ -1,9 +1,9 @@
 # When a shared ledger helps an IoT record
 
-BSV.place / Project Babbage · Updated 2026-10-05
+BSV.place / Project Babbage · Updated 2026-11-02
 Canonical: https://bsv.place/guides/iot-records-and-shared-evidence/
-Evidence review: 2026-10-05; source-specific dates below.
-Next review: 2026-11-05
+Evidence review: 2026-11-02; source-specific dates below.
+Next review: 2026-12-02
 
 A shared ledger can help independent parties inspect a common commitment and accepted ordering without relying only on the original application’s database. It cannot make a sensor truthful or preserve missing records. Use it when that verification benefit justifies its costs and dependencies; a signed database log or transparency service may be the better design.
 
@@ -103,9 +103,9 @@ A measured workflow can show that common commitments improve dispute handling or
 ## Sources and provenance
 
 - [The IoT usefulness question](https://x.com/BHatooor13304/status/2106771161602204102) · reported · Access 2026-10-05. October 4 question about why IoT records need a blockchain. It motivates a design comparison, not a demand forecast.
-- [Bitcoin whitepaper · sections 5, 6 and 8](https://bitcoin.org/bitcoin.pdf) · documented · Access 2026-10-05. The original network, incentive and verification model. It does not document later BSV institutions.
-- [NIST FIPS 186-5 · Digital Signature Standard](https://csrc.nist.gov/pubs/fips/186-5/final) · documented · Access 2026-10-05. Signature verification addresses authenticity and integrity under key assumptions. It cannot establish that a sensor measured the world correctly.
-- [RFC 9162 · Certificate Transparency v2](https://www.rfc-editor.org/rfc/rfc9162.html) · documented · Access 2026-09-05. A concrete non-blockchain transparency design; not a drop-in IoT system. Inclusion, consistency, retention and monitoring are distinct responsibilities.
+- [Bitcoin whitepaper · sections 5, 6 and 8](https://bitcoin.org/bitcoin.pdf) · documented · Access 2026-11-02. The original network, incentive and verification model. It does not document later BSV institutions.
+- [NIST FIPS 186-5 · Digital Signature Standard](https://csrc.nist.gov/pubs/fips/186-5/final) · documented · Access 2026-11-02. Signature verification addresses authenticity and integrity under key assumptions. It cannot establish that a sensor measured the world correctly.
+- [RFC 9162 · Certificate Transparency v2](https://www.rfc-editor.org/rfc/rfc9162.html) · documented · Access 2026-11-02. A concrete non-blockchain transparency design; not a drop-in IoT system. Inclusion, consistency, retention and monitoring are distinct responsibilities.
 
 ## Related resources
 

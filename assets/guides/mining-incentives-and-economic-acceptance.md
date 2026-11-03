@@ -1,9 +1,9 @@
 # Mining incentives and economic acceptance
 
-BSV.place / Project Babbage · Updated 2026-10-05
+BSV.place / Project Babbage · Updated 2026-11-02
 Canonical: https://bsv.place/guides/mining-incentives-and-economic-acceptance/
-Evidence review: 2026-10-05; source-specific dates below.
-Next review: 2026-11-05
+Evidence review: 2026-11-02; source-specific dates below.
+Next review: 2026-12-02
 
 Producing a block, checking it and accepting a payment are different decisions. Hashpower makes production possible and competing histories costly. Credible, coordinated rejection can reduce a profit-seeking attacker’s realizable payoff. That depends on actual enforcement, compatible settlement policies and continued accepted mining; one participant’s refusal cannot guarantee agreement.
 
@@ -125,13 +125,13 @@ Observed coordination failures, inconsistent acceptance or inability to sustain 
 
 ## Sources and provenance
 
-- [Bitcoin whitepaper · sections 5, 6 and 8](https://bitcoin.org/bitcoin.pdf) · documented · Access 2026-10-05. The original network, incentive and verification model. It does not document later BSV institutions.
-- [SV Node Safe Mode](https://docs.bsvblockchain.org/network-topology/nodes/sv-node/frequently-asked-questions/safe-mode) · documented · Access 2026-10-05. Documents protective detection and operator intervention for SV Node. Not a deployment or convergence test.
-- [Network Access Rules · Part III](https://docs.bsvblockchain.org/network-access-rules/network-access-rules/part-iii-enforcement-rules) · documented · Access 2026-10-05. Published Association directive powers and event categories. Read the operative text for scope and conditions.
-- [SV Node alert system](https://docs.bsvblockchain.org/network-topology/nodes/sv-node/alert-system) · documented · Access 2026-10-05. Documents signed information and directive messages. Message authentication is not a judgment on the merits, and documentation is not a deployment audit.
+- [Bitcoin whitepaper · sections 5, 6 and 8](https://bitcoin.org/bitcoin.pdf) · documented · Access 2026-11-02. The original network, incentive and verification model. It does not document later BSV institutions.
+- [SV Node Safe Mode](https://docs.bsvblockchain.org/network-topology/nodes/sv-node/frequently-asked-questions/safe-mode) · documented · Access 2026-11-02. Documents protective detection and operator intervention for SV Node. Not a deployment or convergence test.
+- [Network Access Rules · Part III](https://docs.bsvblockchain.org/network-access-rules/network-access-rules/part-iii-enforcement-rules) · documented · Access 2026-11-02. Published Association directive powers and event categories. Read the operative text for scope and conditions.
+- [SV Node alert system](https://docs.bsvblockchain.org/network-topology/nodes/sv-node/alert-system) · documented · Access 2026-11-02. Documents signed information and directive messages. Message authentication is not a judgment on the merits, and documentation is not a deployment audit.
 - [Project Babbage’s answer on mining and economic acceptance](https://x.com/ProjectBabbage/status/2107167307097342049) · reported · Access 2026-10-05 · Published 2026-10-05T17:53:29Z. The published argument that prompted this guide, verified against its live body. An authored position, not empirical proof of deterrence.
 - [JS’s question about rejecting miners without mining](https://x.com/jionny112/status/2107129424135225455) · reported · Access 2026-10-05 · Published 2026-10-05T15:22:57Z. The direct question answered by the October 5 reply. The guide answers the substance independently of access to X.
-- [BIP 50 · March 2013 chain fork post-mortem](https://github.com/bitcoin/bips/blob/master/bip-0050.mediawiki) · documented · Access 2026-10-05. Records software incompatibility, coordinated downgrade and movement of mining hashpower, disruption and a double spend.
+- [BIP 50 · March 2013 chain fork post-mortem](https://github.com/bitcoin/bips/blob/master/bip-0050.mediawiki) · documented · Access 2026-11-02. Records software incompatibility, coordinated downgrade and movement of mining hashpower, disruption and a double spend.
 
 ## Related resources
 

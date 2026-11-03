@@ -5,7 +5,7 @@
     <link>https://bsv.place/</link>
     <description>Material revisions and evidence-first responses to common BSV objections.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 12:00:00 GMT</lastBuildDate>
     <atom:link href="https://bsv.place/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mining incentives and economic acceptance</title>
@@ -26,7 +26,7 @@
       <link>https://bsv.place/guides/wallet-compatibility-and-safe-changes/</link>
       <guid isPermaLink="false">https://bsv.place/#guide:wallet-compatibility</guid>
       <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-      <description>A common wallet interface gives applications a shared way to request operations. It does not guarantee that every wallet policy, version and user workflow works together. The October 4 Zanaadu report and maintainer acknowledgment expose that gap. A repair needs an identified release and a successful workflow retest; neither an interface pass nor a constructive exchange proves resolution.</description>
+      <description>A common wallet interface gives applications a shared way to request operations. It does not guarantee that every wallet policy, version and user workflow works together. The October 4 Zanaadu report exposed that gap. Later maintainer-reported simulator success and Browser 1.8.0 release evidence show repair follow-through; independent current-release and reporter-confirmed full workflow completion remain unestablished here.</description>
     </item>
     <item>
       <title>When a shared ledger helps an IoT record</title>
@@ -50,6 +50,20 @@
       <description>What Bitcoin proves about transaction inclusion, order, and integrity—and what builders must still preserve, index, explain, and make portable.</description>
     </item>
     <item>
+      <title>Wallet repair follow-through and upgrade boundaries added</title>
+      <link>https://bsv.place/updates/#2026-11-02-wallet-followthrough</link>
+      <guid isPermaLink="false">https://bsv.place/#revision:2026-11-02-wallet-followthrough</guid>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+      <description>The Zanaadu case now records PR #159’s attributed simulator-development-build success and Browser 1.8.0’s released policy change. Added Desktop migration constraints and distinct source-reported spending repairs; no independent current-release completion is inferred.</description>
+    </item>
+    <item>
+      <title>Archived tooling, independence and adoption assertions corrected</title>
+      <link>https://bsv.place/updates/#2026-11-02-evidence-corrections</link>
+      <guid isPermaLink="false">https://bsv.place/#revision:2026-11-02-evidence-corrections</guid>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Labeled the archived Teratestnet runner, added current Quickstart, narrowed an unsupported universal dashboard-absence statement, distinguished separate repository ownership from operational independence, and added the NAR compatible-software counterweight.</description>
+    </item>
+    <item>
       <title>Inclusion evidence does not alone establish current acceptance or unspent status</title>
       <link>https://bsv.place/updates/#2026-10-05-preservation-correction</link>
       <guid isPermaLink="false">https://bsv.place/#revision:2026-10-05-preservation-correction</guid>
@@ -69,6 +83,13 @@
       <guid isPermaLink="false">https://bsv.place/#revision:2026-10-05-brief-expansion</guid>
       <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
       <description>Expanded all published briefs, replaced an unavailable legal-history reading instruction with the official judgment, and clarified acceptance, authority and portable-interface boundaries. Added task-based discovery, evidence states, source dates and public library export. Product outcomes remain untested where no result was obtained.</description>
+    </item>
+    <item>
+      <title>November evidence and editorial review · v1.4.1</title>
+      <link>https://bsv.place/updates/#2026-11-02-1-4-1</link>
+      <guid isPermaLink="false">https://bsv.place/#revision:2026-11-02-1-4-1</guid>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Reviewed all 24 public briefs and four original guides due November 5. Added released wallet repair/migration evidence, structural-versus-behavioral conformance scope, archived-tooling correction and governance/adoption qualifications. Source access gaps remain explicit; no new independent product test or adoption measurement is claimed.</description>
     </item>
     <item>
       <title>Interoperability laboratory guide and evidence references · v1.4.0</title>
